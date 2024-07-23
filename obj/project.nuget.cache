@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zbxka2PFnAQ=",
+  "success": true,
+  "projectFilePath": "/Users/chamara/Projects/dotnet/pdfgen/pdfgen.csproj",
+  "expectedPackageFiles": [
+    "/Users/chamara/.nuget/packages/pdfsharpcore/1.3.65/pdfsharpcore.1.3.65.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/sharpziplib/1.4.2/sharpziplib.1.4.2.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/sixlabors.fonts/1.0.0-beta17/sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "/Users/chamara/.nuget/packages/sixlabors.imagesharp/1.0.4/sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
